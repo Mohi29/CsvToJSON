@@ -1,0 +1,19 @@
+Project:
+This project is created for converting csv file to JSON format.
+
+It is based on node.js
+
+
+Description:
+It contains 1 csv file which is converted into JSON as per the requirement.
+
+final.js file contains code which convert csv to JSON.
+
+3 JSON file is created as per the given specification.
+
+
+Requirement:
+node.js
+
+
+
