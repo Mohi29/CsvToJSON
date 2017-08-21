@@ -1,0 +1,58 @@
+{
+  "State - ARUNACHAL PRADESH": [
+    {
+      "Literate Male": "439868",
+      "Literate Female": "326137",
+      "Illiterate Male": "274044",
+      "Illiterate Female": "343678"
+    }
+  ],
+  "State - NAGALAND": [
+    {
+      "Literate Male": "723957",
+      "Literate Female": "618477",
+      "Illiterate Male": "300692",
+      "Illiterate Female": "335376"
+    }
+  ],
+  "State - MANIPUR": [
+    {
+      "Literate Male": "1039858",
+      "Literate Female": "868618",
+      "Illiterate Male": "398728",
+      "Illiterate Female": "548590"
+    }
+  ],
+  "State - MIZORAM": [
+    {
+      "Literate Male": "438529",
+      "Literate Female": "409646",
+      "Illiterate Male": "116810",
+      "Illiterate Female": "132221"
+    }
+  ],
+  "State - TRIPURA": [
+    {
+      "Literate Male": "1501369",
+      "Literate Female": "1303414",
+      "Illiterate Male": "373007",
+      "Illiterate Female": "496127"
+    }
+  ],
+  "State - MEGHALAYA": [
+    {
+      "Literate Male": "913879",
+      "Literate Female": "871126",
+      "Illiterate Male": "577953",
+      "Illiterate Female": "603931"
+    }
+  ],
+  "State - ASSAM": [
+    {
+      "Literate Male": "10568639",
+      "Literate Female": "8609338",
+      "Illiterate Male": "5370804",
+      "Illiterate Female": "6656795"
+    }
+  ]
+}
