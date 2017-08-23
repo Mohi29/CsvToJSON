@@ -1,0 +1,177 @@
+[
+  {
+    "StateName": "State - JAMMU & KASHMIR",
+    "LiteratePersons": 7067233,
+    "IlliteratePersons": 5474069
+  },
+  {
+    "StateName": "State - HIMACHAL PRADESH",
+    "LiteratePersons": 5039736,
+    "IlliteratePersons": 1824866
+  },
+  {
+    "StateName": "State - PUNJAB",
+    "LiteratePersons": 18707137,
+    "IlliteratePersons": 9036201
+  },
+  {
+    "StateName": "State - CHANDIGARH",
+    "LiteratePersons": 805438,
+    "IlliteratePersons": 250012
+  },
+  {
+    "StateName": "State - UTTARAKHAND",
+    "LiteratePersons": 6880953,
+    "IlliteratePersons": 3205339
+  },
+  {
+    "StateName": "State - HARYANA",
+    "LiteratePersons": 16598988,
+    "IlliteratePersons": 8752474
+  },
+  {
+    "StateName": "State - NCT OF DELHI",
+    "LiteratePersons": 12737767,
+    "IlliteratePersons": 4050174
+  },
+  {
+    "StateName": "State - RAJASTHAN",
+    "LiteratePersons": 38275282,
+    "IlliteratePersons": 30273155
+  },
+  {
+    "StateName": "State - UTTAR PRADESH",
+    "LiteratePersons": 114397555,
+    "IlliteratePersons": 85414786
+  },
+  {
+    "StateName": "State - BIHAR",
+    "LiteratePersons": 52504553,
+    "IlliteratePersons": 51594899
+  },
+  {
+    "StateName": "State - SIKKIM",
+    "LiteratePersons": 444952,
+    "IlliteratePersons": 165625
+  },
+  {
+    "StateName": "State - ARUNACHAL PRADESH",
+    "LiteratePersons": 766005,
+    "IlliteratePersons": 617722
+  },
+  {
+    "StateName": "State - NAGALAND",
+    "LiteratePersons": 1342434,
+    "IlliteratePersons": 636068
+  },
+  {
+    "StateName": "State - MANIPUR",
+    "LiteratePersons": 1908476,
+    "IlliteratePersons": 947318
+  },
+  {
+    "StateName": "State - MIZORAM",
+    "LiteratePersons": 848175,
+    "IlliteratePersons": 249031
+  },
+  {
+    "StateName": "State - TRIPURA",
+    "LiteratePersons": 2804783,
+    "IlliteratePersons": 869134
+  },
+  {
+    "StateName": "State - MEGHALAYA",
+    "LiteratePersons": 1785005,
+    "IlliteratePersons": 1181884
+  },
+  {
+    "StateName": "State - ASSAM",
+    "LiteratePersons": 19177977,
+    "IlliteratePersons": 12027599
+  },
+  {
+    "StateName": "State - WEST BENGAL",
+    "LiteratePersons": 61538281,
+    "IlliteratePersons": 29737834
+  },
+  {
+    "StateName": "State - JHARKHAND",
+    "LiteratePersons": 18328069,
+    "IlliteratePersons": 14660065
+  },
+  {
+    "StateName": "State - ODISHA",
+    "LiteratePersons": 26742595,
+    "IlliteratePersons": 15231623
+  },
+  {
+    "StateName": "State - CHHATTISGARH",
+    "LiteratePersons": 15379922,
+    "IlliteratePersons": 10165276
+  },
+  {
+    "StateName": "State - MADHYA PRADESH",
+    "LiteratePersons": 42851169,
+    "IlliteratePersons": 29775640
+  },
+  {
+    "StateName": "State - GUJARAT",
+    "LiteratePersons": 41093358,
+    "IlliteratePersons": 19346334
+  },
+  {
+    "StateName": "State - DAMAN & DIU",
+    "LiteratePersons": 188406,
+    "IlliteratePersons": 54841
+  },
+  {
+    "StateName": "State - DADRA & NAGAR HAVELI",
+    "LiteratePersons": 223230,
+    "IlliteratePersons": 120479
+  },
+  {
+    "StateName": "State - MAHARASHTRA",
+    "LiteratePersons": 81554290,
+    "IlliteratePersons": 30820043
+  },
+  {
+    "StateName": "State - ANDHRA PRADESH",
+    "LiteratePersons": 50556760,
+    "IlliteratePersons": 34024017
+  },
+  {
+    "StateName": "State - KARNATAKA",
+    "LiteratePersons": 40647322,
+    "IlliteratePersons": 20447975
+  },
+  {
+    "StateName": "State - GOA",
+    "LiteratePersons": 1165487,
+    "IlliteratePersons": 293058
+  },
+  {
+    "StateName": "State - LAKSHADWEEP",
+    "LiteratePersons": 52553,
+    "IlliteratePersons": 11920
+  },
+  {
+    "StateName": "State - KERALA",
+    "LiteratePersons": 28135824,
+    "IlliteratePersons": 5270237
+  },
+  {
+    "StateName": "State - TAMIL NADU",
+    "LiteratePersons": 51837507,
+    "IlliteratePersons": 20309523
+  },
+  {
+    "StateName": "State - PUDUCHERRY",
+    "LiteratePersons": 957309,
+    "IlliteratePersons": 290644
+  },
+  {
+    "StateName": "State - ANDAMAN & NICOBAR ISLANDS",
+    "LiteratePersons": 294281,
+    "IlliteratePersons": 86300
+  }
+]
