@@ -11,6 +11,7 @@ final.js file contains code which convert csv to JSON.
 
 3 JSON file is created as per the given specification.
 
+3 d3 chart is created with respect to 3 JSON i.e group bar chart and stack bar chart.
 
 Requirement:
 node.js
